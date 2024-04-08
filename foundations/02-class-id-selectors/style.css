@@ -1,0 +1,15 @@
+p {
+	background: pink;
+}
+#title1 {
+	font-size: 36px;
+	color: blue;
+}
+#title2 {
+	background-color: lightgreen;
+	font-weight: bold;
+}
+
+.bigger {
+	font-size: 24px;
+}
